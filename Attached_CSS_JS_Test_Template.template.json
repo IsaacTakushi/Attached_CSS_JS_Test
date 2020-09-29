@@ -3,7 +3,7 @@
   "templateType" : 4,
   "attachedJs" : [ ],
   "customHead" : "",
-  "customFooter" : "<p>Modified again in CLI and reuploaded.</p>",
+  "customFooter" : "<p>Modified in VS Code and pushed to GH.</p>",
   "bodyClass" : "",
   "bodyCss" : "",
   "bodyEditable" : false,
